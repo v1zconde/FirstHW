@@ -25,11 +25,11 @@ header a{
     color: #ffffff;
     text-decoration: none;
 }
-
+/*to change SEO in the Horiseon Title*/
 header h1 .seo{
     color: #d9dcd6;
 }
-
+/*Start of Nav*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
