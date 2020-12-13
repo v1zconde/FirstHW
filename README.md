@@ -32,4 +32,4 @@ Github Repo URL: [https://github.com/v1zconde/FirstHW-Horiseon](https://github.c
 
 ### Website
 ---
-![Horiseon Website](assets/images/full-page-horiseon.png)
+![Horiseon Website](./assets/images/full-page-Horiseon.png)
